@@ -8,7 +8,7 @@ Or `brew tap amalkh5/telsocket` and then `brew install <formula>`.
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/amalkh5/homebrew-telsocket/master/Formula/<formula>.rb
+brew install https://raw.githubusercontent.com/amalkh5/homebrew-telsocket/master/Formula/homebrew.rb
 ```
 
 ## Documentation
