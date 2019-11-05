@@ -1,15 +1,16 @@
-# Amalkh5 Telsocket
+# telsocket Homebrew Tap
+A [Homebrew tap]  for [telsocket] which a telnet like tool for websockets (v1.0.1) developed by [Khalid Lafi](https://github.com/lafikl).
 
-## How do I install these formulae?
-`brew install amalkh5/telsocket/<formula>`
+[Homebrew tap]: https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
 
-Or `brew tap amalkh5/telsocket` and then `brew install <formula>`.
+[telsocket]: https://github.com/lafikl/telsocket
 
-Or install via URL (which will not receive updates):
-
+## Installation
+- Install the tap via 
 ```
-brew install https://raw.githubusercontent.com/amalkh5/homebrew-telsocket/master/Formula/homebrew.rb
+  $ brew tap amalkh5/telsocket 
+  ```
+- Install telsocket v1.0.1  via 
 ```
-
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+  $ brew install telsocket
+```
